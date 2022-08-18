@@ -1,2 +1,4 @@
 Tortoise and Hare get ready at the starting line
 They start racing
+Hare is very far ahead from Tortoise going extremely fast
+Tortoise is behind Hare by a lot and is taking his time
